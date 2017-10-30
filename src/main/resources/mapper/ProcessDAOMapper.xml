@@ -1,0 +1,9 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace填写mapper映射文件关联的dao接口类（全限定名） -->
+<mapper namespace="com.zc.dao.ProcessDAO">
+
+
+</mapper>
