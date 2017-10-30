@@ -11,4 +11,5 @@ import lombok.*;
 public class User {
     @Getter @Setter private String name;
     @Getter @Setter private String phone;
+    @Getter @Setter private String roleName;
 }
